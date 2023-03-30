@@ -27,4 +27,4 @@
 
 ##
 
-
+![GitHub Snake dark](https://github.com/marilisa-saldanha/marilisa-saldanha/blob/output/github-contribution-grid-snake.svg)
