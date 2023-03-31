@@ -1,5 +1,5 @@
 ### Olá!! 👋
-<div>
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=marilisa-saldanha&theme=aura_dark&show_icons=true&border_radius=18"
@@ -18,7 +18,7 @@
 </div>
 
 ##
-<div style="display=inline_block">
+<div align="center">
   <img align="center" alt="icon-html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="icon-html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="icon-html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
