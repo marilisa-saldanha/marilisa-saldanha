@@ -1,21 +1,4 @@
 ### Olá!! 👋
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marilisa-saldanha&theme=aura_dark&show_icons=true&border_radius=18"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=marilisa-saldanha&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=marilisa-saldanha&theme=aura_dark&show_icons=true&border_radius=11&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img  width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marilisa-saldanha"/>
-  </picture>
-</div>
 
 ##
 <div align="center">
